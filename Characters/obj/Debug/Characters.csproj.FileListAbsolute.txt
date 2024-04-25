@@ -1,0 +1,51 @@
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Characters.exe.config
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Characters.exe
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Characters.pdb
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.AssemblyReference.cache
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.SuggestedBindingRedirects.cache
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\MainWindow.g.cs
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\App.g.cs
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters_MarkupCompile.cache
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters_MarkupCompile.lref
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\MainWindow.baml
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.g.resources
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.Properties.Resources.resources
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.GenerateResource.cache
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.CoreCompileInputs.cache
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.exe
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.pdb
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignColors.dll
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignColors.pdb
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\App.baml
+D:\Курсы по программированию\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.CopyComplete
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Characters.exe.config
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Characters.exe
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Characters.pdb
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignColors.dll
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignColors.pdb
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.AssemblyReference.cache
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\MainWindow.g.cs
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\App.g.cs
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters_MarkupCompile.cache
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters_MarkupCompile.lref
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\App.baml
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\MainWindow.baml
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.g.resources
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.Properties.Resources.resources
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.GenerateResource.cache
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.CoreCompileInputs.cache
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.csproj.Up2Date
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.exe
+D:\Programming_courses\C#\Работа дома\февраль\05.02\Characters\Characters\obj\Debug\Characters.pdb
